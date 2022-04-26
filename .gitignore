@@ -1,0 +1,7 @@
+Configuration/srx1.conf
+Config_using_jinja2/srx2.conf
+Config_using_jinja2/srx1.conf
+Config_using_jinja2/srx1_minimal.conf
+Configuration/compare.conf
+Configuration/confirm.conf
+Operational/credentials.py
