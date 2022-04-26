@@ -5,3 +5,4 @@ Config_using_jinja2/srx1_minimal.conf
 Configuration/compare.conf
 Configuration/confirm.conf
 Operational/credentials.py
+Operational/Junos_Dev.code-workspace
