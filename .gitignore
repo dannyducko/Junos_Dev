@@ -6,3 +6,4 @@ Configuration/compare.conf
 Configuration/confirm.conf
 Operational/credentials.py
 Operational/Junos_Dev.code-workspace
+creds.py

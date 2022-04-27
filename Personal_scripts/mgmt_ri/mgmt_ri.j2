@@ -1,0 +1,9 @@
+routing-instances {
+    {{mgmt_ri.ri_name}} {
+        routing-options {
+            static {
+                route {{mgmt_ri.route}} next-hop {{mgmt_ri.next_hop_add}}
+            }
+        }
+    }
+}
