@@ -6,4 +6,8 @@ Configuration/compare.conf
 Configuration/confirm.conf
 Operational/credentials.py
 Operational/Junos_Dev.code-workspace
+/venv/
+.idea
 creds.py
+/Personal_scripts/mgmt_ri/lab.srx1.yml
+/Personal_scripts/mgmt_ri/lab.srx2.yml

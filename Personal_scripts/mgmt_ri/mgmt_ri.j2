@@ -1,3 +1,15 @@
+system {
+    management-instance
+}
+interfaces {
+    {{mgmt_int.int}} {
+        unit 0 {
+            family inet {
+                address {{mgmt_int.ip}};
+            }
+        }
+    }
+}
 routing-instances {
     {{mgmt_ri.ri_name}} {
         routing-options {

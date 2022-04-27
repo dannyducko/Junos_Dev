@@ -14,4 +14,4 @@ for host in junos_hosts:
                 conf.load(template_path="Config_using_jinja2/example.j2", template_vars=data, format="text")
                 conf.pdiff()
                 conf.commit()
-            print("Configuration loaded succesfully.")
+            print("Configuration loaded successfully.")
