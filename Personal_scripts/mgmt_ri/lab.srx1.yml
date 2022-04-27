@@ -2,9 +2,9 @@
 mgmt_ri:
     ri_name: mgmt_junos
     route: 0.0.0.0/0
-    next_hop_add: 192.168.1.1
+    next_hop_add: x.x.x.x
 
 mgmt_int:
     int: fxp0
     unit: 0
-    ip: 192.168.1.213/24
+    ip: x.x.x.x
